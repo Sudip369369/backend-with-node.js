@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "description": "\"Just learning to build Custom CLI\"",
+  "keywords": [
+    "Node.js"
+  ],
+  "license": "MIT",
+  "author": "Sudip G.C.",
+  "type": "commonjs",
+  "main": "index.js",
+
+  "name": "note",
+  "bin": {
+    "note": "./index.js"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
